@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "created": "2026-11-06",
+  "native_language": "ko",
+  "target_language": "en",
+  "explain_in": "ko",
+  "practice_in": "en",
+  "focus": "개발자 업무 영어 (Slack, 메일, PR 설명, 기술 문서. 인프라/MLOps 맥락 포함)",
+  "skills": {
+    "writing": "지금",
+    "speaking": "나중에 사용자와 정함"
+  },
+  "session_minutes_target": [
+    10,
+    15
+  ],
+  "level": null
+}
